@@ -1,0 +1,91 @@
+div {
+    color: white;
+    /* height: 20%; */
+    align-items: center;
+}
+
+.logo {
+    background-color: blue;
+    height: 10%;
+    border-radius: 10px;
+    display: flex;
+}
+
+.lo6 {
+    align-items: center;
+    justify-content: center;
+    margin-left: 42%;
+    margin-bottom: 3%;
+    font-size: 30px;
+    min-width: 20px;
+    margin-bottom: 50px;
+    display: flex;
+    margin-right: 60px;
+    /* margin-bottom: 100px; */
+}
+
+/* .lo6:hover {
+   border: 2px solid black;
+   cursor: pointer;
+   width: 300px;
+   min-width: 5%;
+} */
+
+/* .About {
+
+} */
+
+.button {
+    margin-top: 2px;
+    background-color: black;
+    height: 20%;
+}
+
+.btn-group {
+    color: white;
+    margin-left: 28%;
+    height: 5%;
+    min-width: 10px;
+    min-height: 11px;
+}
+
+.btn {
+    font-size: 20px;
+    min-width: 10px;
+    min-height: 11px;
+}
+
+.hedding {
+    margin-left: 25%;
+    cursor: pointer;
+}
+
+.d44 {
+    margin-left: 20%;
+}
+
+.Pera {
+    background-color: cadetblue;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.juu7 {
+    width: 30%;
+    height: 5%;
+    margin-left: 30%;
+}
+
+.dgy7 {
+    width: 5%;
+    height: 1%;
+    cursor: pointer;
+    margin-top: 1%;
+    margin-left: 2%;
+}
+
+.gg7 {
+    margin-top: 9px;
+    margin-left: 25%;
+}
